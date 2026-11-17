@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Licencia de Gurobi (no subir)
+gurobi.lic
+
+# PDFs de terceros (derechos de autor): no subir; citarlos en el README
+1-s2.0-*.pdf
+Garces*.pdf
+garcesnegrete*.pdf
+
+# Auxiliares de LaTeX (conservar solo main.pdf si se desea)
+reporte/*.aux
+reporte/*.bbl
+reporte/*.blg
+reporte/*.log
+reporte/*.out
+reporte/*.synctex.gz

@@ -1,0 +1,5 @@
+gurobipy==13.0.3   # modelos MILP/LP (necesita licencia de Gurobi; la academica sirve)
+numpy              # codigo/incertidumbre.py (Monte Carlo + k-means) y digitalizar_fig2_heydari.py
+pymupdf            # solo codigo/digitalizar_fig2_heydari.py
+matplotlib         # solo reporte/scripts/generar_tablas_figuras.py
+highspy            # opcional: solver libre para el Reto 2 (TNEP_SOLVER=highs)
